@@ -21,4 +21,3 @@ Midhuna S / @midhunaS
 ### Model Download
 The trained model is too large for GitHub.  
 (Download it here from Google Drive)(https://drive.google.com/drive/folders/1AqZjDCTtLoQd08Y-DRm2EwNIuRPzjIkU?usp=drive_link).
-Place it inside `model/variables/`.
