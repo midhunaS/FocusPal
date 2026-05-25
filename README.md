@@ -1,6 +1,6 @@
 FocusPal
 
-##Overview 📝
+##Overview
 
 FocusPal is an AI powered tool that uses machine learning to help students maintain focus while studying. FocusPal uses a neural network on a video of the user to determine whether they are currently focused or unfocused on their task. What's special about FocusPal is that it detects focused and unfocused modes while working off their computers. It can clearly differentiate between users being on their phone and reading off a textbook. It also uses clever puns to help students study.
 
@@ -14,7 +14,7 @@ opencv
 ResNet152v2
 tensorflow (keras)
 
-##🧑‍💻 Authors 🧑‍💻
+##Authors
 Midhuna S / @midhunaS
 
 
